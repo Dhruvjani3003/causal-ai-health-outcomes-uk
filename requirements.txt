@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+networkx
+pgmpy==0.1.24
+dowhy
+jupyter
+openpyxl
